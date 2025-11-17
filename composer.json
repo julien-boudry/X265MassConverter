@@ -1,8 +1,8 @@
 {
     "require": {
-        "mikehaertl/php-shellcommand": "^1.6"
+        "mikehaertl/php-shellcommand": "^1.7"
     },
     "require-dev": {
-        "laravel/pint": "^1.1"
+        "laravel/pint": "^1.25"
     }
 }
